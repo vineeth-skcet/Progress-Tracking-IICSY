@@ -1,0 +1,35 @@
+
+.left
+{
+  background-color: rgb(45, 42, 106);
+  color: white;
+  height: 300px;
+  width:50%;
+  text-align: center;
+  text-shadow: 10cm;
+  flex:50%;
+}
+.button{
+  background-color: rgb(45, 42, 106);
+  color: white;
+  border-radius: 30%;
+}
+.right{
+  color: rgb(45, 42, 106);
+  text-align: center;
+  height:300px;
+  width:50%;
+  background-color: aquamarine;
+  flex: 50%;
+}
+body{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  
+}
+.row
+{
+  display:flex;
+}
